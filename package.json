@@ -15,7 +15,7 @@
     "rebrand": "node scripts/rebrand.js"
   },
   "devDependencies": {
-    "@changesets/cli": "^2.29.1",
+    "@changesets/cli": "^2.29.2",
     "@repo/typescript-config": "workspace:*",
     "@types/node": "^22.14.1",
     "enquirer": "^2.4.1",
