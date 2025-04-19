@@ -201,8 +201,8 @@ importers:
         specifier: ^19.1.2
         version: 19.1.2(@types/react@19.1.2)
       '@vitejs/plugin-react':
-        specifier: ^4.4.0
-        version: 4.4.0(vite@6.3.2(@types/node@22.14.1)(sass@1.86.3)(yaml@2.7.1))
+        specifier: ^4.4.1
+        version: 4.4.1(vite@6.3.2(@types/node@22.14.1)(sass@1.86.3)(yaml@2.7.1))
       typescript:
         specifier: ^5.8.3
         version: 5.8.3
@@ -238,8 +238,8 @@ importers:
         specifier: ^19.1.2
         version: 19.1.2(@types/react@19.1.2)
       '@vitejs/plugin-react':
-        specifier: ^4.4.0
-        version: 4.4.0(vite@6.3.2(@types/node@22.14.1)(sass@1.86.3)(yaml@2.7.1))
+        specifier: ^4.4.1
+        version: 4.4.1(vite@6.3.2(@types/node@22.14.1)(sass@1.86.3)(yaml@2.7.1))
       '@vitest/coverage-v8':
         specifier: ^3.1.1
         version: 3.1.1(vitest@3.1.1(@types/node@22.14.1)(jsdom@26.1.0)(sass@1.86.3)(yaml@2.7.1))
@@ -398,8 +398,8 @@ importers:
         specifier: ^19.1.2
         version: 19.1.2(@types/react@19.1.2)
       '@vitejs/plugin-react':
-        specifier: ^4.4.0
-        version: 4.4.0(vite@6.3.2(@types/node@22.14.1)(sass@1.86.3)(yaml@2.7.1))
+        specifier: ^4.4.1
+        version: 4.4.1(vite@6.3.2(@types/node@22.14.1)(sass@1.86.3)(yaml@2.7.1))
       '@vitest/coverage-v8':
         specifier: ^3.1.1
         version: 3.1.1(vitest@3.1.1(@types/node@22.14.1)(jsdom@26.1.0)(sass@1.86.3)(yaml@2.7.1))
@@ -1795,8 +1795,8 @@ packages:
     resolution: {integrity: sha512-aEhgas7aJ6vZnNFC7K4/vMGDGyOiqWcYZPpIWrTKuTAlsvDNKy2GFDqh9smL+iq069ZvR0YzEeq0B8NJlLzjFA==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
 
-  '@vitejs/plugin-react@4.4.0':
-    resolution: {integrity: sha512-x/EztcTKVj+TDeANY1WjNeYsvZjZdfWRMP/KXi5Yn8BoTzpa13ZltaQqKfvWYbX8CE10GOHHdC5v86jY9x8i/g==}
+  '@vitejs/plugin-react@4.4.1':
+    resolution: {integrity: sha512-IpEm5ZmeXAP/osiBXVVP5KjFMzbWOonMs0NaQQl+xYnUAcq4oHUBsF2+p4MgKWG4YMmFYJU8A6sxRPuowllm6w==}
     engines: {node: ^14.18.0 || >=16.0.0}
     peerDependencies:
       vite: ^4.2.0 || ^5.0.0 || ^6.0.0
@@ -6608,7 +6608,7 @@ snapshots:
       '@typescript-eslint/types': 8.30.1
       eslint-visitor-keys: 4.2.0
 
-  '@vitejs/plugin-react@4.4.0(vite@6.3.2(@types/node@22.14.1)(sass@1.86.3)(yaml@2.7.1))':
+  '@vitejs/plugin-react@4.4.1(vite@6.3.2(@types/node@22.14.1)(sass@1.86.3)(yaml@2.7.1))':
     dependencies:
       '@babel/core': 7.26.10
       '@babel/plugin-transform-react-jsx-self': 7.25.9(@babel/core@7.26.10)
