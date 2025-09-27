@@ -23,7 +23,7 @@
     "@repo/typescript-config": "workspace:*",
     "@types/node": "^24.5.2",
     "enquirer": "^2.4.1",
-    "plop": "^4.0.3",
+    "plop": "^4.0.4",
     "prettier": "^3.6.2",
     "turbo": "^2.5.8",
     "typedoc": "^0.28.13",
